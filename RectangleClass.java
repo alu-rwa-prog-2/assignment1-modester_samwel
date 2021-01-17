@@ -1,3 +1,6 @@
+//Authors: Modester Mwangi, Samwel Maisiba
+//Usernames: Modester-mw, Sammyiel
+
 package part2;
 
 public class RectangleClass {
